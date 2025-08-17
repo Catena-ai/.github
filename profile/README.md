@@ -12,9 +12,7 @@ AI agents are now scattered across repos, notebooks, and blogs. Executing one no
 * **Download & Import** agents into a sandbox on your local machine.
 * **Drag & Drop** multiple agents together into an interactive workflow playground.
 * **Run Immediately** with no setup – just end-users provide their own local API keys.
-
-Our dream: make agents as easy to pass around and remix as a YouTube video 🎥.
-
+* 
 ---
 
 ## 🛠️ Platform Architecture (MVP)
